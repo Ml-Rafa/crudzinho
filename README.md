@@ -1,5 +1,4 @@
-# crudzinho
+#  Crud
 
-
-## Projeto realizado como aprendizaem para spring Boot  java 
-## Conectando banco de dados relacional testando a api no postman
+#### Projeto realizado para conhecimento básico  em java, Spring Boot
+#### usando Postman para testar endpoints, e conexão  com banco de dados relacional
